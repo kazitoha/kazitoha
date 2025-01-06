@@ -37,4 +37,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🏅 Participated in coding competitions and hackathons
 
 ## 🤝🏻 Connect with Me
+- ![image](https://github.com/user-attachments/assets/fa1202a7-0cd6-4b56-89b4-32e07ae4e2eb) LinkedIn :
+
 - 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
