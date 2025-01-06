@@ -1,4 +1,10 @@
 ## Hi there 👋
+ 👨🏻‍💻  About Me
+
+    🤔   Exploring new technologies and developing software solutions and quick hacks.
+    🎓   Studying Computer Science at Bangladesh University of Business and Technology (BUBT).
+    💼   Working as a Software Engineer at adency.co.
+    🌱   Learning more about database structure and Vue Js.
 
 <!--
 **kazitoha/kazitoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
