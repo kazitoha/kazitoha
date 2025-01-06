@@ -1,4 +1,4 @@
-# Hi there,👋
+![image](https://github.com/user-attachments/assets/0f14d57d-88d7-495b-b894-e2b575628936)# Hi there,👋
 I am Khaledul Islam Toha
 ![Alt Text]([https://media.giphy.com/media/example.gif](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif))
 
@@ -11,7 +11,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - ⚡   Learning more about database structure and Vue Js.
 
 ## 🚀 My Skills
-## 🛠 Tech Stack
 
 ### 💻 Programming & Frameworks
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
@@ -35,7 +34,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🤝🏻 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-username)
-- [Instagram](https://www.instagram.com/your-username)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/your-username)
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/your-username)
+- 📧 Email: [kazitoha03@gmail.com]([mailto:your-email@example.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXFBHrTXczRvPjwQMtwWmSqmjXWcZHsXxjStSfXGBFnWVVrmsBSGsLKHpnLMxHBklBzdC))
 
