@@ -1,5 +1,5 @@
 # Hi there 👋
-![Alt Text](https://media.giphy.com/media/example.gif)
+![Alt Text]([https://media.giphy.com/media/example.gif](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif))
 
 Welcome to my GitHub profile! Here's a little about me:
 
