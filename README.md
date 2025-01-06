@@ -28,20 +28,14 @@ Welcome to my GitHub profile! Here's a little about me:
 - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&style=flat-square) ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=flat-square)
 
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ## 🏆 Achievements
 - 🥇 Open-source contributions: **100+**
 - 🌟 Starred Repositories: **50+**
 - 🏅 Hackathons Won: **2**
 
-## 📬 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-username)
-- [Twitter](https://twitter.com/your-username)
-- [Portfolio](https://your-portfolio.com)
+## 🤝🏻 Connect with Me
 
-## 🎨 Featured Projects
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repository-name&theme=radical)](https://github.com/your-username/repository-name)
+- [LinkedIn](https://www.linkedin.com/in/your-username)
+- [Instagram](https://www.instagram.com/your-username)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
