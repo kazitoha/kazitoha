@@ -1,14 +1,15 @@
-Hi there,👋
-I am Khaledul Islam Toha
-![Alt Text]([https://media.giphy.com/media/example.gif](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif))
+# Hi there 👋  
+I am **Khaledul Islam Toha**  
+
+![Alt Text](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif)
 
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🧑‍💻 About Me
-- 🤔   Exploring new technologies and developing software solutions and quick hacks.
-- 🎓   Studying Computer Science at dhaka internation university (DIU).
-- 💼   Working as a Software Engineer at erp.com.bd
-- ⚡   Learning more about database structure and Vue Js.
+- 🤔   I enjoy exploring new technologies and developing software solutions and quick hacks.
+- 🎓   Currently studying Computer Science at Dhaka International University (DIU).
+- 💼   Working as a Software Engineer at ERP.com.bd.
+- ⚡   Learning more about database structures and Vue.js.
 
 ## 🚀 My Skills
 
@@ -26,16 +27,10 @@ Welcome to my GitHub profile! Here's a little about me:
 ### 🔧 IDEs & Editors
 - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) ![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&style=flat-square) ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=flat-square)
 
-
 ## 🏆 Achievements
-- 🥇 Open-source contributions: **100+**
-- 🌟 Starred Repositories: **50+**
-- 🏅 Hackathons Won: **2**
+- 🥇 Contributed to multiple open-source projects
+- 🌟 Starred repositories and growing portfolio
+- 🏅 Participated in coding competitions and hackathons
 
 ## 🤝🏻 Connect with Me
-
-
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/your-username)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/your-username)
-- 📧 Email: [kazitoha03@gmail.com]([mailto:your-email@example.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXFBHrTXczRvPjwQMtwWmSqmjXWcZHsXxjStSfXGBFnWVVrmsBSGsLKHpnLMxHBklBzdC))
-
+- 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
