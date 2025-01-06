@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif
  👨🏻‍💻  About Me
 
     🤔   Exploring new technologies and developing software solutions and quick hacks.
