@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f14d57d-88d7-495b-b894-e2b575628936)# Hi there,👋
+Hi there,👋
 I am Khaledul Islam Toha
 ![Alt Text]([https://media.giphy.com/media/example.gif](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif))
 
