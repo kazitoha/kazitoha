@@ -1,4 +1,5 @@
 # Hi there 👋
+![Alt Text](https://media.giphy.com/media/example.gif)
 
 Welcome to my GitHub profile! Here's a little about me:
 
