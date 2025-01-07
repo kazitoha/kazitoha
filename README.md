@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a glimpse of who I am and what I do.
 
 ## 🧑‍💻 About Me
 - 🎓 **Pursuing Computer Science** at **Dhaka International University (DIU)**.  
-- 💼 **Software Engineer** at **[ERP.com.bd](ERP.com.bd)**.  
+- 💼 **Software Engineer** at **[ERP.COM.BD](https://erp.com.bd)**.  
 - 🌱 Currently **exploring Vue.js** and **database optimization**.  
 - 🛠️ **Committed to learning, creating, and growing as a developer.**  
 
