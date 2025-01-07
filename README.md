@@ -3,7 +3,7 @@
 # Hi 👋, I'm Khaledul Islam Toha  
 ## A passionate full stack developer from Bangladesh  
 
-![Alt Text](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif)  
+![Coding animation](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif)
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -38,4 +38,5 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🤝🏻 Connect with Me
 - 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
-- ![Linkedin]([https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link)
+
