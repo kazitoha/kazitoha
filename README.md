@@ -38,3 +38,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🤝🏻 Connect with Me
 - 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
+- - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) 
