@@ -38,5 +38,5 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🤝🏻 Connect with Me
 - 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/khaledul-islam-toha-b23a74222/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/khaledul-islam-toha-b23a74222/])
 
