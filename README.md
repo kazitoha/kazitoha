@@ -35,8 +35,9 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🥇 Contributed to multiple open-source projects
 - 🌟 Starred repositories and growing portfolio
 - 🏅 Participated in coding competitions and hackathons
-
 ## 🤝🏻 Connect with Me
 - 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/khaledul-islam-toha-b23a74222/])
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledul-islam-toha-b23a74222/)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/your_facebook_profile)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_profile)
 
