@@ -38,4 +38,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🤝🏻 Connect with Me
 - 📧 Email: [kazitoha03@gmail.com](mailto:kazitoha03@gmail.com)
-- [Linkedin]([https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) 
+- ![Linkedin]([https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) 
